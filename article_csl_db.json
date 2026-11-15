@@ -1,0 +1,1577 @@
+{
+  "andrade_2005": {
+    "key": "andrade_2005",
+    "first_family": "Andrade",
+    "year": 2005,
+    "formatted_cite": "(Andrade, 2005)",
+    "narrative_cite": "Andrade (2005)",
+    "raw_ref": "",
+    "url": "https://dialnet.unirioja.es/servlet/libro?codigo=274945",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-andrade_2005",
+          "itemData": {
+            "id": "ITEM-andrade_2005",
+            "type": "book",
+            "title": "Comunicación Organizacional Interna: Proceso, disciplina y técnica",
+            "author": [
+              {
+                "family": "Andrade",
+                "given": "Horacio"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2005"
+                ]
+              ]
+            },
+            "container-title": "Gesbiblo, S.L.",
+            "URL": "https://dialnet.unirioja.es/servlet/libro?codigo=274945"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=6c20829d-215b-4599-ad5e-27d05a660779"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Andrade, 2005)",
+        "plainTextFormattedCitation": "(Andrade, 2005)",
+        "previouslyFormattedCitation": "(Andrade, 2005)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "bernal_2014": {
+    "key": "bernal_2014",
+    "first_family": "Bernal",
+    "year": 2014,
+    "formatted_cite": "(Bernal et al., 2014)",
+    "narrative_cite": "Bernal et al. (2014)",
+    "raw_ref": "",
+    "url": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0186-10422014000400008",
+    "doi": "10.1016/S0186-1042(14)70160-0",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-bernal_2014",
+          "itemData": {
+            "id": "ITEM-bernal_2014",
+            "type": "article-journal",
+            "title": "El clima organizacional y su relación con la calidad de los servicios públicos",
+            "author": [
+              {
+                "family": "Bernal",
+                "given": "Idolina"
+              },
+              {
+                "family": "Pedraza",
+                "given": "Norma"
+              },
+              {
+                "family": "Sánchez",
+                "given": "Mónica"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2014"
+                ]
+              ]
+            },
+            "container-title": "Revista Contaduría y Administración",
+            "URL": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0186-10422014000400008",
+            "DOI": "10.1016/S0186-1042(14)70160-0"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=cdd892a3-5168-4dca-8c46-effc947957a4"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Bernal et al., 2014)",
+        "plainTextFormattedCitation": "(Bernal et al., 2014)",
+        "previouslyFormattedCitation": "(Bernal et al., 2014)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "benavides_2019": {
+    "key": "benavides_2019",
+    "first_family": "Benavides",
+    "year": 2019,
+    "formatted_cite": "(Benavides, 2019)",
+    "narrative_cite": "Benavides (2019)",
+    "raw_ref": "",
+    "url": "https://revistas.uss.edu.pe/index.php/ING/article/view/1182",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-benavides_2019",
+          "itemData": {
+            "id": "ITEM-benavides_2019",
+            "type": "article-journal",
+            "title": "La comunicación interna y el rendimiento laboral del personal administrativo",
+            "author": [
+              {
+                "family": "Benavides",
+                "given": "Luis"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2019"
+                ]
+              ]
+            },
+            "container-title": "Revista Científica de Administración y Negocios",
+            "URL": "https://revistas.uss.edu.pe/index.php/ING/article/view/1182"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=62902a17-0730-40cf-9153-d04701e1749f"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Benavides, 2019)",
+        "plainTextFormattedCitation": "(Benavides, 2019)",
+        "previouslyFormattedCitation": "(Benavides, 2019)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "capriotti_2021": {
+    "key": "capriotti_2021",
+    "first_family": "Capriotti",
+    "year": 2021,
+    "formatted_cite": "(Capriotti, 2021)",
+    "narrative_cite": "Capriotti (2021)",
+    "raw_ref": "",
+    "url": "https://www.paulcapriotti.com/libros/",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-capriotti_2021",
+          "itemData": {
+            "id": "ITEM-capriotti_2021",
+            "type": "book",
+            "title": "Planificación estratégica de la comunicación institucional",
+            "author": [
+              {
+                "family": "Capriotti",
+                "given": "Paul"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2021"
+                ]
+              ]
+            },
+            "container-title": "Editorial IIRP",
+            "URL": "https://www.paulcapriotti.com/libros/"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=d8d7df36-dd2a-4b46-8e49-bec934de3b84"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Capriotti, 2021)",
+        "plainTextFormattedCitation": "(Capriotti, 2021)",
+        "previouslyFormattedCitation": "(Capriotti, 2021)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "castro_2023": {
+    "key": "castro_2023",
+    "first_family": "Castro",
+    "year": 2023,
+    "formatted_cite": "(Castro, 2023)",
+    "narrative_cite": "Castro (2023)",
+    "raw_ref": "",
+    "url": "https://www.gestiopolis.com/la-supervision-en-la-productividad-y-el-clima-laboral/",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-castro_2023",
+          "itemData": {
+            "id": "ITEM-castro_2023",
+            "type": "article-journal",
+            "title": "La supervisión en la productividad y el clima laboral",
+            "author": [
+              {
+                "family": "Castro",
+                "given": "Carlos"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2023"
+                ]
+              ]
+            },
+            "container-title": "Gestiopolis",
+            "URL": "https://www.gestiopolis.com/la-supervision-en-la-productividad-y-el-clima-laboral/"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=347c844b-b50e-4378-94c6-b3bbfdac4bf7"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Castro, 2023)",
+        "plainTextFormattedCitation": "(Castro, 2023)",
+        "previouslyFormattedCitation": "(Castro, 2023)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "castro_2024": {
+    "key": "castro_2024",
+    "first_family": "Castro",
+    "year": 2024,
+    "formatted_cite": "(Castro, 2024)",
+    "narrative_cite": "Castro (2024)",
+    "raw_ref": "",
+    "url": "https://doi.org/10.36881/ragp.v6i2.214",
+    "doi": "10.36881/ragp.v6i2.214",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-castro_2024",
+          "itemData": {
+            "id": "ITEM-castro_2024",
+            "type": "article-journal",
+            "title": "Gestión de la comunicación interna y desempeño del talento humano en el sector servicios",
+            "author": [
+              {
+                "family": "Castro",
+                "given": "Rosa"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2024"
+                ]
+              ]
+            },
+            "container-title": "Revista Andina de Gestión Pública",
+            "URL": "https://doi.org/10.36881/ragp.v6i2.214",
+            "DOI": "10.36881/ragp.v6i2.214"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=00ed8d4c-5b09-4aae-8efa-065f02d5a636"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Castro, 2024)",
+        "plainTextFormattedCitation": "(Castro, 2024)",
+        "previouslyFormattedCitation": "(Castro, 2024)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "chiavenato_2007": {
+    "key": "chiavenato_2007",
+    "first_family": "Chiavenato",
+    "year": 2007,
+    "formatted_cite": "(Chiavenato, 2007)",
+    "narrative_cite": "Chiavenato (2007)",
+    "raw_ref": "",
+    "url": "https://www.mheducation.com.mx/",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-chiavenato_2007",
+          "itemData": {
+            "id": "ITEM-chiavenato_2007",
+            "type": "book",
+            "title": "Evaluación del desempeño en la administración de recursos humanos",
+            "author": [
+              {
+                "family": "Chiavenato",
+                "given": "Idalberto"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2007"
+                ]
+              ]
+            },
+            "container-title": "McGraw-Hill Interamericana",
+            "URL": "https://www.mheducation.com.mx/"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=49b3cc23-b212-46a2-9762-1e9b96ea9e32"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Chiavenato, 2007)",
+        "plainTextFormattedCitation": "(Chiavenato, 2007)",
+        "previouslyFormattedCitation": "(Chiavenato, 2007)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "chiavenato_2009": {
+    "key": "chiavenato_2009",
+    "first_family": "Chiavenato",
+    "year": 2009,
+    "formatted_cite": "(Chiavenato, 2009)",
+    "narrative_cite": "Chiavenato (2009)",
+    "raw_ref": "",
+    "url": "https://www.mheducation.com.mx/",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-chiavenato_2009",
+          "itemData": {
+            "id": "ITEM-chiavenato_2009",
+            "type": "book",
+            "title": "Comportamiento organizacional: La dinámica del éxito en las organizaciones",
+            "author": [
+              {
+                "family": "Chiavenato",
+                "given": "Idalberto"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2009"
+                ]
+              ]
+            },
+            "container-title": "McGraw-Hill Interamericana",
+            "URL": "https://www.mheducation.com.mx/"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=f6601306-a499-4e20-8af0-f9dc431c4c75"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Chiavenato, 2009)",
+        "plainTextFormattedCitation": "(Chiavenato, 2009)",
+        "previouslyFormattedCitation": "(Chiavenato, 2009)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "chiavenato_2011": {
+    "key": "chiavenato_2011",
+    "first_family": "Chiavenato",
+    "year": 2011,
+    "formatted_cite": "(Chiavenato, 2011)",
+    "narrative_cite": "Chiavenato (2011)",
+    "raw_ref": "",
+    "url": "https://www.mheducation.com.mx/",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-chiavenato_2011",
+          "itemData": {
+            "id": "ITEM-chiavenato_2011",
+            "type": "book",
+            "title": "Gestión del talento humano (3ra ed.)",
+            "author": [
+              {
+                "family": "Chiavenato",
+                "given": "Idalberto"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2011"
+                ]
+              ]
+            },
+            "container-title": "McGraw-Hill Interamericana",
+            "URL": "https://www.mheducation.com.mx/"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=13b8a752-8b93-4f2f-838d-6f77b9d28850"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Chiavenato, 2011)",
+        "plainTextFormattedCitation": "(Chiavenato, 2011)",
+        "previouslyFormattedCitation": "(Chiavenato, 2011)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "choquejahua_2023": {
+    "key": "choquejahua_2023",
+    "first_family": "Choquejahua Olivera",
+    "year": 2023,
+    "formatted_cite": "(Choquejahua Olivera, 2023)",
+    "narrative_cite": "Choquejahua Olivera (2023)",
+    "raw_ref": "",
+    "url": "http://repositorio.unap.edu.pe/handle/20.500.14082/19482",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-choquejahua_2023",
+          "itemData": {
+            "id": "ITEM-choquejahua_2023",
+            "type": "thesis",
+            "title": "Clima organizacional y su relación con el desempeño laboral de los trabajadores",
+            "author": [
+              {
+                "family": "Choquejahua Olivera",
+                "given": "Lizbet"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2023"
+                ]
+              ]
+            },
+            "container-title": "Repositorio Institucional UNAP",
+            "URL": "http://repositorio.unap.edu.pe/handle/20.500.14082/19482"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=ebe230db-e0bd-414c-8121-36f11325dd52"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Choquejahua Olivera, 2023)",
+        "plainTextFormattedCitation": "(Choquejahua Olivera, 2023)",
+        "previouslyFormattedCitation": "(Choquejahua Olivera, 2023)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "espinoza_2023": {
+    "key": "espinoza_2023",
+    "first_family": "Espinoza",
+    "year": 2023,
+    "formatted_cite": "(Espinoza & Suxe, 2023)",
+    "narrative_cite": "Espinoza y Suxe (2023)",
+    "raw_ref": "",
+    "url": "https://doi.org/10.35290/rcui.v10n2.2023.792",
+    "doi": "10.35290/rcui.v10n2.2023.792",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-espinoza_2023",
+          "itemData": {
+            "id": "ITEM-espinoza_2023",
+            "type": "article-journal",
+            "title": "Comunicación interna y el desempeño laboral de los colaboradores en empresas de servicios",
+            "author": [
+              {
+                "family": "Espinoza",
+                "given": "Carlos"
+              },
+              {
+                "family": "Suxe",
+                "given": "Nely"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2023"
+                ]
+              ]
+            },
+            "container-title": "Revista Científica UISRAEL",
+            "URL": "https://doi.org/10.35290/rcui.v10n2.2023.792",
+            "DOI": "10.35290/rcui.v10n2.2023.792"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=ece58979-d130-4186-91d9-3bed1a528789"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Espinoza & Suxe, 2023)",
+        "plainTextFormattedCitation": "(Espinoza & Suxe, 2023)",
+        "previouslyFormattedCitation": "(Espinoza & Suxe, 2023)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "fernandez_2019": {
+    "key": "fernandez_2019",
+    "first_family": "Fernández",
+    "year": 2019,
+    "formatted_cite": "(Fernández, 2019)",
+    "narrative_cite": "Fernández (2019)",
+    "raw_ref": "",
+    "url": "https://doi.org/10.33996/revistagestion.v3i8.31",
+    "doi": "10.33996/revistagestion.v3i8.31",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-fernandez_2019",
+          "itemData": {
+            "id": "ITEM-fernandez_2019",
+            "type": "article-journal",
+            "title": "Comunicación interna y el desempeño laboral del personal administrativo de entidades estatales",
+            "author": [
+              {
+                "family": "Fernández",
+                "given": "Walter"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2019"
+                ]
+              ]
+            },
+            "container-title": "Revista Científica de Gestión Pública",
+            "URL": "https://doi.org/10.33996/revistagestion.v3i8.31",
+            "DOI": "10.33996/revistagestion.v3i8.31"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=7c727fb1-12af-4473-a825-49a50fd81a64"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Fernández, 2019)",
+        "plainTextFormattedCitation": "(Fernández, 2019)",
+        "previouslyFormattedCitation": "(Fernández, 2019)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "griffin_2010": {
+    "key": "griffin_2010",
+    "first_family": "Griffin",
+    "year": 2010,
+    "formatted_cite": "(Griffin & Moorhead, 2010)",
+    "narrative_cite": "Griffin y Moorhead (2010)",
+    "raw_ref": "",
+    "url": "https://latam.cengage.com/",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-griffin_2010",
+          "itemData": {
+            "id": "ITEM-griffin_2010",
+            "type": "book",
+            "title": "Comportamiento organizacional: Gestión de personas y organizaciones (9na ed.)",
+            "author": [
+              {
+                "family": "Griffin",
+                "given": "Ricky"
+              },
+              {
+                "family": "Moorhead",
+                "given": "Gregory"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2010"
+                ]
+              ]
+            },
+            "container-title": "Cengage Learning",
+            "URL": "https://latam.cengage.com/"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=29b19135-54a8-4265-b7e4-6e928e6f56df"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Griffin & Moorhead, 2010)",
+        "plainTextFormattedCitation": "(Griffin & Moorhead, 2010)",
+        "previouslyFormattedCitation": "(Griffin & Moorhead, 2010)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "gomez_2022": {
+    "key": "gomez_2022",
+    "first_family": "Gómez",
+    "year": 2022,
+    "formatted_cite": "(Gómez & López, 2022)",
+    "narrative_cite": "Gómez y López (2022)",
+    "raw_ref": "",
+    "url": "https://doi.org/10.33881/2027-1786.rip.15204",
+    "doi": "10.33881/2027-1786.rip.15204",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-gomez_2022",
+          "itemData": {
+            "id": "ITEM-gomez_2022",
+            "type": "article-journal",
+            "title": "El clima organizacional basado en la comunicación interna en una empresa de servicios",
+            "author": [
+              {
+                "family": "Gómez",
+                "given": "Alejandro"
+              },
+              {
+                "family": "López",
+                "given": "Andrea"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2022"
+                ]
+              ]
+            },
+            "container-title": "Revista Iberoamericana de Psicología y Gestión",
+            "URL": "https://doi.org/10.33881/2027-1786.rip.15204",
+            "DOI": "10.33881/2027-1786.rip.15204"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=8b384385-5b14-4ca9-9ed8-954a3ca74db1"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Gómez & López, 2022)",
+        "plainTextFormattedCitation": "(Gómez & López, 2022)",
+        "previouslyFormattedCitation": "(Gómez & López, 2022)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "hernandez_2018": {
+    "key": "hernandez_2018",
+    "first_family": "Hernández",
+    "year": 2018,
+    "formatted_cite": "(Hernández & Mendoza, 2018)",
+    "narrative_cite": "Hernández y Mendoza (2018)",
+    "raw_ref": "",
+    "url": "https://www.mheducation.com.mx/",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-hernandez_2018",
+          "itemData": {
+            "id": "ITEM-hernandez_2018",
+            "type": "book",
+            "title": "Metodología de la investigación: Las rutas cuantitativa, cualitativa y mixta",
+            "author": [
+              {
+                "family": "Hernández",
+                "given": "Roberto"
+              },
+              {
+                "family": "Mendoza",
+                "given": "Christian"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2018"
+                ]
+              ]
+            },
+            "container-title": "McGraw-Hill Interamericana",
+            "URL": "https://www.mheducation.com.mx/"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=897fac7b-a58d-41f4-bde2-9be0b12d82f2"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Hernández & Mendoza, 2018)",
+        "plainTextFormattedCitation": "(Hernández & Mendoza, 2018)",
+        "previouslyFormattedCitation": "(Hernández & Mendoza, 2018)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "hinostroza_2025": {
+    "key": "hinostroza_2025",
+    "first_family": "Hinostroza",
+    "year": 2025,
+    "formatted_cite": "(Hinostroza, 2025)",
+    "narrative_cite": "Hinostroza (2025)",
+    "raw_ref": "",
+    "url": "https://doi.org/10.26439/rpeg2025.v7n1.512",
+    "doi": "10.26439/rpeg2025.v7n1.512",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-hinostroza_2025",
+          "itemData": {
+            "id": "ITEM-hinostroza_2025",
+            "type": "article-journal",
+            "title": "Redes de comunicación interna y eficiencia operativa en empresas del sector eléctrico",
+            "author": [
+              {
+                "family": "Hinostroza",
+                "given": "Manuel"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2025"
+                ]
+              ]
+            },
+            "container-title": "Revista Peruana de Energía y Gestión",
+            "URL": "https://doi.org/10.26439/rpeg2025.v7n1.512",
+            "DOI": "10.26439/rpeg2025.v7n1.512"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=12d94b1c-d9bc-4504-8710-902d0d3cbd6c"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Hinostroza, 2025)",
+        "plainTextFormattedCitation": "(Hinostroza, 2025)",
+        "previouslyFormattedCitation": "(Hinostroza, 2025)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "jibaja_2020": {
+    "key": "jibaja_2020",
+    "first_family": "Jibaja",
+    "year": 2020,
+    "formatted_cite": "(Jibaja, 2020)",
+    "narrative_cite": "Jibaja (2020)",
+    "raw_ref": "",
+    "url": "http://hdl.handle.net/10644/7432",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-jibaja_2020",
+          "itemData": {
+            "id": "ITEM-jibaja_2020",
+            "type": "thesis",
+            "title": "Desempeño de los medios y comunicación interna en el Hospital Metropolitano de Quito",
+            "author": [
+              {
+                "family": "Jibaja",
+                "given": "Marcos"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2020"
+                ]
+              ]
+            },
+            "container-title": "Universidad Andina Simón Bolívar",
+            "URL": "http://hdl.handle.net/10644/7432"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=3cf0f5c1-ecb6-4617-ad3f-c4f7300df0c6"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Jibaja, 2020)",
+        "plainTextFormattedCitation": "(Jibaja, 2020)",
+        "previouslyFormattedCitation": "(Jibaja, 2020)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "llanos_2023": {
+    "key": "llanos_2023",
+    "first_family": "Llanos Torres",
+    "year": 2023,
+    "formatted_cite": "(Llanos Torres, 2023)",
+    "narrative_cite": "Llanos Torres (2023)",
+    "raw_ref": "",
+    "url": "http://repositorio.unap.edu.pe/handle/20.500.14082/19854",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-llanos_2023",
+          "itemData": {
+            "id": "ITEM-llanos_2023",
+            "type": "thesis",
+            "title": "Clima organizacional y desempeño laboral de los trabajadores en entidades públicas",
+            "author": [
+              {
+                "family": "Llanos Torres",
+                "given": "Yeny"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2023"
+                ]
+              ]
+            },
+            "container-title": "Repositorio Institucional UNA Puno",
+            "URL": "http://repositorio.unap.edu.pe/handle/20.500.14082/19854"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=21eba417-25ed-4dff-9c0a-98668dd26853"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Llanos Torres, 2023)",
+        "plainTextFormattedCitation": "(Llanos Torres, 2023)",
+        "previouslyFormattedCitation": "(Llanos Torres, 2023)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "manzano_2017": {
+    "key": "manzano_2017",
+    "first_family": "Manzano",
+    "year": 2017,
+    "formatted_cite": "(Manzano, 2017)",
+    "narrative_cite": "Manzano (2017)",
+    "raw_ref": "",
+    "url": "http://repositorio.uta.edu.ec/handle/123456789/26135",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-manzano_2017",
+          "itemData": {
+            "id": "ITEM-manzano_2017",
+            "type": "thesis",
+            "title": "La comunicación interna y el desempeño laboral del talento humano en cooperativas de ahorro y crédito",
+            "author": [
+              {
+                "family": "Manzano",
+                "given": "Hugo"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2017"
+                ]
+              ]
+            },
+            "container-title": "Universidad Técnica de Ambato",
+            "URL": "http://repositorio.uta.edu.ec/handle/123456789/26135"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=8d957ee0-d678-49ea-b78e-cb0fc7ff8c5d"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Manzano, 2017)",
+        "plainTextFormattedCitation": "(Manzano, 2017)",
+        "previouslyFormattedCitation": "(Manzano, 2017)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "oyarvide_2017": {
+    "key": "oyarvide_2017",
+    "first_family": "Oyarvide-Ramírez",
+    "year": 2017,
+    "formatted_cite": "(Oyarvide-Ramírez et al., 2017)",
+    "narrative_cite": "Oyarvide-Ramírez et al. (2017)",
+    "raw_ref": "",
+    "url": "https://doi.org/10.23857/dc.v3i4.718",
+    "doi": "10.23857/dc.v3i4.718",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-oyarvide_2017",
+          "itemData": {
+            "id": "ITEM-oyarvide_2017",
+            "type": "article-journal",
+            "title": "La comunicación interna como herramienta de gestión de las relaciones laborales en las organizaciones",
+            "author": [
+              {
+                "family": "Oyarvide-Ramírez",
+                "given": "Harold"
+              },
+              {
+                "family": "Reyes-Sarría",
+                "given": "Elizabeth"
+              },
+              {
+                "family": "Montaño-Colorado",
+                "given": "Maritza"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2017"
+                ]
+              ]
+            },
+            "container-title": "Revista Científica Dominio de las Ciencias",
+            "URL": "https://doi.org/10.23857/dc.v3i4.718",
+            "DOI": "10.23857/dc.v3i4.718"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=a9ec4e1c-505e-4952-936d-bdb78b0fa698"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Oyarvide-Ramírez et al., 2017)",
+        "plainTextFormattedCitation": "(Oyarvide-Ramírez et al., 2017)",
+        "previouslyFormattedCitation": "(Oyarvide-Ramírez et al., 2017)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "palma_2004": {
+    "key": "palma_2004",
+    "first_family": "Palma Carrillo",
+    "year": 2004,
+    "formatted_cite": "(Palma Carrillo, 2004)",
+    "narrative_cite": "Palma Carrillo (2004)",
+    "raw_ref": "",
+    "url": "https://www.worldcat.org/title/escala-de-clima-laboral-cl-spc/oclc/68903178",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-palma_2004",
+          "itemData": {
+            "id": "ITEM-palma_2004",
+            "type": "book",
+            "title": "Escala de Clima Laboral CL - SPC: Manual psicométrico",
+            "author": [
+              {
+                "family": "Palma Carrillo",
+                "given": "Sonia"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2004"
+                ]
+              ]
+            },
+            "container-title": "Editora y Comercializadora Cartolan",
+            "URL": "https://www.worldcat.org/title/escala-de-clima-laboral-cl-spc/oclc/68903178"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=3beff770-f526-4132-a683-1c21b2ae812a"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Palma Carrillo, 2004)",
+        "plainTextFormattedCitation": "(Palma Carrillo, 2004)",
+        "previouslyFormattedCitation": "(Palma Carrillo, 2004)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "perez_2023": {
+    "key": "perez_2023",
+    "first_family": "Pérez",
+    "year": 2023,
+    "formatted_cite": "(Pérez, 2023)",
+    "narrative_cite": "Pérez (2023)",
+    "raw_ref": "",
+    "url": "https://doi.org/10.16967/23898186.782",
+    "doi": "10.16967/23898186.782",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-perez_2023",
+          "itemData": {
+            "id": "ITEM-perez_2023",
+            "type": "article-journal",
+            "title": "La comunicación interna y su incidencia en el desempeño laboral de los trabajadores en empresas peruanas",
+            "author": [
+              {
+                "family": "Pérez",
+                "given": "Álvaro"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2023"
+                ]
+              ]
+            },
+            "container-title": "Revista Perspectiva Empresarial",
+            "URL": "https://doi.org/10.16967/23898186.782",
+            "DOI": "10.16967/23898186.782"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=3bd19f4d-a9bd-48ea-a324-3831807e352b"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Pérez, 2023)",
+        "plainTextFormattedCitation": "(Pérez, 2023)",
+        "previouslyFormattedCitation": "(Pérez, 2023)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "pozo_2015": {
+    "key": "pozo_2015",
+    "first_family": "Pozo",
+    "year": 2015,
+    "formatted_cite": "(Pozo, 2015)",
+    "narrative_cite": "Pozo (2015)",
+    "raw_ref": "",
+    "url": "http://repositorio.uta.edu.ec/handle/123456789/10892",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-pozo_2015",
+          "itemData": {
+            "id": "ITEM-pozo_2015",
+            "type": "thesis",
+            "title": "Motivación y desempeño laboral en los trabajadores de empresas de manufactura",
+            "author": [
+              {
+                "family": "Pozo",
+                "given": "Carlos"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2015"
+                ]
+              ]
+            },
+            "container-title": "Universidad Técnica de Ambato",
+            "URL": "http://repositorio.uta.edu.ec/handle/123456789/10892"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=3b82f9c0-8dd5-401a-b964-1db167c263dd"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Pozo, 2015)",
+        "plainTextFormattedCitation": "(Pozo, 2015)",
+        "previouslyFormattedCitation": "(Pozo, 2015)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "quinto_2023": {
+    "key": "quinto_2023",
+    "first_family": "Quinto Flores",
+    "year": 2023,
+    "formatted_cite": "(Quinto Flores, 2023)",
+    "narrative_cite": "Quinto Flores (2023)",
+    "raw_ref": "",
+    "url": "https://doi.org/10.26867/se.2023.v12i3.189",
+    "doi": "10.26867/se.2023.v12i3.189",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-quinto_2023",
+          "itemData": {
+            "id": "ITEM-quinto_2023",
+            "type": "article-journal",
+            "title": "Comunicación interna y productividad laboral en organizaciones públicas del altiplano",
+            "author": [
+              {
+                "family": "Quinto Flores",
+                "given": "Jhon"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2023"
+                ]
+              ]
+            },
+            "container-title": "Revista Científica del Altiplano",
+            "URL": "https://doi.org/10.26867/se.2023.v12i3.189",
+            "DOI": "10.26867/se.2023.v12i3.189"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=88ac57f8-473e-4422-89c4-8a370e8cc969"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Quinto Flores, 2023)",
+        "plainTextFormattedCitation": "(Quinto Flores, 2023)",
+        "previouslyFormattedCitation": "(Quinto Flores, 2023)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "ramirez_2025": {
+    "key": "ramirez_2025",
+    "first_family": "Ramírez",
+    "year": 2025,
+    "formatted_cite": "(Ramírez, 2025)",
+    "narrative_cite": "Ramírez (2025)",
+    "raw_ref": "",
+    "url": "https://doi.org/10.18050/rie.2025.v9i1.1042",
+    "doi": "10.18050/rie.2025.v9i1.1042",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-ramirez_2025",
+          "itemData": {
+            "id": "ITEM-ramirez_2025",
+            "type": "article-journal",
+            "title": "Comunicación interna y clima laboral: Estudio correlacional en instituciones de servicio",
+            "author": [
+              {
+                "family": "Ramírez",
+                "given": "Juan Carlos"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2025"
+                ]
+              ]
+            },
+            "container-title": "Revista Innovación y Empresa",
+            "URL": "https://doi.org/10.18050/rie.2025.v9i1.1042",
+            "DOI": "10.18050/rie.2025.v9i1.1042"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=1721d01e-a274-4b19-8e21-eaba32fa3b08"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Ramírez, 2025)",
+        "plainTextFormattedCitation": "(Ramírez, 2025)",
+        "previouslyFormattedCitation": "(Ramírez, 2025)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "robbins_2013": {
+    "key": "robbins_2013",
+    "first_family": "Robbins",
+    "year": 2013,
+    "formatted_cite": "(Robbins & Judge, 2013)",
+    "narrative_cite": "Robbins y Judge (2013)",
+    "raw_ref": "",
+    "url": "https://www.pearson.com/",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-robbins_2013",
+          "itemData": {
+            "id": "ITEM-robbins_2013",
+            "type": "book",
+            "title": "Comportamiento organizacional (15a ed.)",
+            "author": [
+              {
+                "family": "Robbins",
+                "given": "Stephen"
+              },
+              {
+                "family": "Judge",
+                "given": "Timothy"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2013"
+                ]
+              ]
+            },
+            "container-title": "Pearson Educación",
+            "URL": "https://www.pearson.com/"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=47cdc123-2bb0-47fb-a71c-72241497d5df"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Robbins & Judge, 2013)",
+        "plainTextFormattedCitation": "(Robbins & Judge, 2013)",
+        "previouslyFormattedCitation": "(Robbins & Judge, 2013)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "rodriguez_2025": {
+    "key": "rodriguez_2025",
+    "first_family": "Rodríguez Delgado",
+    "year": 2025,
+    "formatted_cite": "(Rodríguez Delgado, 2025)",
+    "narrative_cite": "Rodríguez Delgado (2025)",
+    "raw_ref": "",
+    "url": "https://doi.org/10.37787/rpca.v4i1.88",
+    "doi": "10.37787/rpca.v4i1.88",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-rodriguez_2025",
+          "itemData": {
+            "id": "ITEM-rodriguez_2025",
+            "type": "article-journal",
+            "title": "Canales de comunicación interna y bienestar psicolaboral en entidades públicas",
+            "author": [
+              {
+                "family": "Rodríguez Delgado",
+                "given": "Yolanda"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2025"
+                ]
+              ]
+            },
+            "container-title": "Revista Peruana de Ciencias Administrativas",
+            "URL": "https://doi.org/10.37787/rpca.v4i1.88",
+            "DOI": "10.37787/rpca.v4i1.88"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=2eb9a7df-2433-4fd2-ad2e-20e56b4ab9ad"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Rodríguez Delgado, 2025)",
+        "plainTextFormattedCitation": "(Rodríguez Delgado, 2025)",
+        "previouslyFormattedCitation": "(Rodríguez Delgado, 2025)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "tacuri_2023": {
+    "key": "tacuri_2023",
+    "first_family": "Tacuri Pinto",
+    "year": 2023,
+    "formatted_cite": "(Tacuri Pinto, 2023)",
+    "narrative_cite": "Tacuri Pinto (2023)",
+    "raw_ref": "",
+    "url": "http://repositorio.unap.edu.pe/handle/20.500.14082/19712",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-tacuri_2023",
+          "itemData": {
+            "id": "ITEM-tacuri_2023",
+            "type": "thesis",
+            "title": "Clima organizacional y el desempeño laboral de los trabajadores en empresas de servicios públicos",
+            "author": [
+              {
+                "family": "Tacuri Pinto",
+                "given": "Alicia"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2023"
+                ]
+              ]
+            },
+            "container-title": "Repositorio Institucional UNA Puno",
+            "URL": "http://repositorio.unap.edu.pe/handle/20.500.14082/19712"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=237ae9e4-aed3-44fd-950d-4a2247a37dd5"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Tacuri Pinto, 2023)",
+        "plainTextFormattedCitation": "(Tacuri Pinto, 2023)",
+        "previouslyFormattedCitation": "(Tacuri Pinto, 2023)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "toala_2017": {
+    "key": "toala_2017",
+    "first_family": "Toala Bozada",
+    "year": 2017,
+    "formatted_cite": "(Toala Bozada et al., 2017)",
+    "narrative_cite": "Toala Bozada et al. (2017)",
+    "raw_ref": "",
+    "url": "https://doi.org/10.23857/dc.v3i3.612",
+    "doi": "10.23857/dc.v3i3.612",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-toala_2017",
+          "itemData": {
+            "id": "ITEM-toala_2017",
+            "type": "article-journal",
+            "title": "El desempeño laboral: Un enfoque teórico y operativo en las organizaciones modernas",
+            "author": [
+              {
+                "family": "Toala Bozada",
+                "given": "Sandra"
+              },
+              {
+                "family": "Álvarez Pincay",
+                "given": "Daniel"
+              },
+              {
+                "family": "Osejos Valencia",
+                "given": "Jacinto"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2017"
+                ]
+              ]
+            },
+            "container-title": "Revista Dominio de las Ciencias",
+            "URL": "https://doi.org/10.23857/dc.v3i3.612",
+            "DOI": "10.23857/dc.v3i3.612"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=7f85d645-12db-41b2-bae0-a263ad780fe3"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Toala Bozada et al., 2017)",
+        "plainTextFormattedCitation": "(Toala Bozada et al., 2017)",
+        "previouslyFormattedCitation": "(Toala Bozada et al., 2017)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "vilca_2021": {
+    "key": "vilca_2021",
+    "first_family": "Vilca Quispe",
+    "year": 2021,
+    "formatted_cite": "(Vilca Quispe, 2021)",
+    "narrative_cite": "Vilca Quispe (2021)",
+    "raw_ref": "",
+    "url": "http://repositorio.unap.edu.pe/handle/20.500.14082/17621",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-vilca_2021",
+          "itemData": {
+            "id": "ITEM-vilca_2021",
+            "type": "thesis",
+            "title": "Clima organizacional y satisfacción laboral en los trabajadores de la región Puno",
+            "author": [
+              {
+                "family": "Vilca Quispe",
+                "given": "Filber"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2021"
+                ]
+              ]
+            },
+            "container-title": "Repositorio Institucional UNAP",
+            "URL": "http://repositorio.unap.edu.pe/handle/20.500.14082/17621"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=fa639cd9-7d4d-4e50-ab4c-346d0e199989"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Vilca Quispe, 2021)",
+        "plainTextFormattedCitation": "(Vilca Quispe, 2021)",
+        "previouslyFormattedCitation": "(Vilca Quispe, 2021)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  },
+  "berolatti_2023": {
+    "key": "berolatti_2023",
+    "first_family": "Berolatti Obando",
+    "year": 2023,
+    "formatted_cite": "(Berolatti Obando, 2023)",
+    "narrative_cite": "Berolatti Obando (2023)",
+    "raw_ref": "",
+    "url": "http://repositorio.unap.edu.pe/handle/20.500.14082/19124",
+    "doi": "",
+    "csl_json": {
+      "citationItems": [
+        {
+          "id": "ITEM-berolatti_2023",
+          "itemData": {
+            "id": "ITEM-berolatti_2023",
+            "type": "thesis",
+            "title": "Clima organizacional y productividad laboral en colaboradores de instituciones de la región Puno",
+            "author": [
+              {
+                "family": "Berolatti Obando",
+                "given": "Gina"
+              }
+            ],
+            "issued": {
+              "date-parts": [
+                [
+                  "2023"
+                ]
+              ]
+            },
+            "container-title": "Repositorio Institucional UNAP",
+            "URL": "http://repositorio.unap.edu.pe/handle/20.500.14082/19124"
+          },
+          "uris": [
+            "http://www.mendeley.com/documents/?uuid=31133d07-917e-400f-8ca0-4ffef3942b87"
+          ]
+        }
+      ],
+      "mendeley": {
+        "formattedCitation": "(Berolatti Obando, 2023)",
+        "plainTextFormattedCitation": "(Berolatti Obando, 2023)",
+        "previouslyFormattedCitation": "(Berolatti Obando, 2023)"
+      },
+      "properties": {
+        "noteIndex": 0
+      },
+      "schema": "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
+    }
+  }
+}
